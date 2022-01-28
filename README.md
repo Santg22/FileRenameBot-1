@@ -9,7 +9,7 @@ ABOUT BOT
 
 ### YOU WANT TO DEPLOY A BOT FOR YOU CLICK THE BUTTON GIVEN BELOW.....  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kunal-Diwan/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Santg22/FileRenameBot)
 
 YOU GUYS FOUND ANY BUGS REPORT US AT [DEVOLEPED BOTS SUPPORT](https://t.me/DevelopedBotz) 
 AND UPDATES AT [DEVOLEPED BOTS CHANNEL](https://t.me/DevelopedBotz) 
